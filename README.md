@@ -14,7 +14,7 @@ Made by Jenna F. March 10, 2024
 
 <img src="https://thumbs.dreamstime.com/b/book-falling-letters-23727380.jpg" width=100;height=100>
 
-<blockquote>"Description begins in the writer's imagination, but should finish in the reader's"</blockqote>
+<blockquote>"Description begins in the writer's imagination, but should finish in the reader's"</blockquote>
 <blockquote> -Stephen King</blockquote>
 
 Reflection 
