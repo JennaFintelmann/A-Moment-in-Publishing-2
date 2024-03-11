@@ -1,4 +1,4 @@
-# A-Moment-in-Publishing-2
+<h1>A Moment In Publishing</h1>
 This is  DIY Website for a Digital Platform Publishing class at Univeristy of Wisconsin-Green Bay. 
 Made by Jenna F. March 10, 2024
 
@@ -9,7 +9,6 @@ Made by Jenna F. March 10, 2024
 </head>
 <body>
 
-<h1>A Moment In Publishing</h1>
 <p style="font-family:arial">Publishing to me is freedom; <li><b>freedom</b> of sharing my creativity in stories</li><li> <b>breaking</b> the chains that hold myself and my anxiety oh, so closely.</li><li> Writing is a means of <b>escaping</b> and publishing is the feeling of freedom that washes over once the escape was successful. 
 
 <img src="https://live.staticflickr.com/1954/43829584310_c2e4515018_b.jpg" width=100;height=100>
