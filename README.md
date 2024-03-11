@@ -7,7 +7,7 @@ Made by Jenna F. March 10, 2024
 <p style="font-family:arial">Publishing to me is freedom; <li><b>freedom</b> of sharing my creativity in stories</li><li> <b>breaking</b> the chains that hold myself and my anxiety oh, so closely.</li><li> Writing is a means of <b>escaping</b> and publishing is the feeling of freedom that washes over once the escape was successful. 
 
 <p>The journey of self-publishing my first book, <i>Drop Me</i>, was stressful, only because I had no clue what I was doing. I spent the money for someone to edit the cover and I edited the pages and the format (there might be typos yet). I did so much research to make sure my book came out perfectly, and I feel it came out as anything but. </p>
-<enter>
+
 <img src="https://m.media-amazon.com/images/I/71XDIVMz8uL._AC_UF1000,1000_QL80_.jpg" width=100;height=50>
   
 <p>For my next book, whatever or whenever I might publish it, I’d like to go the route of getting an agent. And to have someone as passionate as publishing my work as me. </p>
