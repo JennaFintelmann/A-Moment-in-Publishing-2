@@ -17,6 +17,6 @@ Made by Jenna F. March 10, 2024
 <blockquote>"Description begins in the writer's imagination, but should finish in the reader's"</blockquote>
 <blockquote> -Stephen King</blockquote>
 
-<p>Reflection</p>> 
+<p>Reflection</p> 
 
 <p>This project was more frustrating side for me. The word “simple” kept being used and I feel as though that was the wrong word to use, as people who are not technologically smart (especially for the means of creating a website and the language behind it) was very hard to wrap my head around. I had no idea what I was doing, even with the videos. Once I played around with the website and all the buttons, I guess it became a little easier to understand it all. But for someone with no prior knowledge of anything to do with creating a website, it was very frustrating. Espeically the word choice “simple.” All in all, it is cool to see all that hard work and frustration end up as a website, even if it seems very unprofessionally done and such. Since I had access denied to the  “Getting Your Site Up and Running” video, I struggled with the document that was meant to help me navigate the website. I couldn’t find the “page” tab  for a few minutes and was ready to throw in the towel, when it finally appeared. I swear it showed up out of nowhere, but I most likely overlooked the placement of it or something. Overall, the website is cool it see int the end, but it was a very frustrating process to get it to that point. </p>
