@@ -13,6 +13,7 @@ Made by Jenna F. March 10, 2024
 <p>For my next book, whatever or whenever I might publish it, I’d like to go the route of getting an agent. And to have someone as passionate as publishing my work as me. </p>
 
 <img src="https://thumbs.dreamstime.com/b/book-falling-letters-23727380.jpg" width=100;height=100>
+![Ebook cover (3)](https://github.com/JennaFintelmann/A-Moment-in-Publishing-2/assets/162853620/9e5e435e-182a-4d67-a2c1-5d2eaa05aabf)
 
 <blockquote>"Description begins in the writer's imagination, but should finish in the reader's"</blockquote>
 <blockquote> -Stephen King</blockquote>
